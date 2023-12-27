@@ -304,7 +304,7 @@ nav {
   position: relative;
   min-height: 895px;
   padding: 57px 0 138px 0;
-  background: url("../img/world_bg/dark.jpg") center center/cover no-repeat; }
+  background: url("../img/World_bg/dark.jpg") center center/cover no-repeat; }
   .choice_img {
     position: relative;
     display: block;
@@ -370,7 +370,7 @@ nav {
   position: relative;
   min-height: 717px;
   padding: 49px 0;
-  background: url("../img/world_bg/world_bg.jpg") center center/cover no-repeat; }
+  background: url("../img/World_bg/world_bg.jpg") center center/cover no-repeat; }
   .world_link {
     position: absolute;
     left: 50%;
